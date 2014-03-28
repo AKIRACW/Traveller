@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3EB08AA0-EC05-4EE3-B63D-4557FF3B5E0D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Traveller</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CAD06269-D60C-4BF8-8A0E-111C5CCCE587</key>
+		<string>https://github.com/WonderNewWorld/Traveller.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Traveller/Traveller.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CAD06269-D60C-4BF8-8A0E-111C5CCCE587</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/WonderNewWorld/Traveller.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CAD06269-D60C-4BF8-8A0E-111C5CCCE587</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CAD06269-D60C-4BF8-8A0E-111C5CCCE587</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Traveller</string>
+		</dict>
+	</array>
+</dict>
+</plist>

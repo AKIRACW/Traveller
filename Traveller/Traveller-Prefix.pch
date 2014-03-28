@@ -1,0 +1,25 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+#endif
+
+#define DPAppKey             @"61965426"
+#define DPAppSecret          @"2e256e10a35d419fb34fa4d7e1427191"
+#define DPRequestUrl         @"http://api.dianping.com"
+#define DPRequestFindShops   @"/v1/business/find_businesses"
+#define DPRequestGetShop     @"/v1/business/get_single_business"
+
+
+#define MAMapApiKey          @"0576eb085c121d94c367066ea2606715"

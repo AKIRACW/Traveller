@@ -1,0 +1,53 @@
+{"errorNum":10000,"errorMsg":"success","data":
+    [{
+     "Posts_id": 1,
+     "Posts_type": 1,
+     "User_id": 10,
+     "User_nickname":"丕龙大将军",
+     "User_headphoto": "123.jpg",
+     "Posts_title":"相约磁器口",
+     "Posts_content":"重返千年古镇，回味风土人情",
+     "Posts_contentinfo":[{
+     "plan":"        磁器口吃伤心凉面",
+     "imgurl":"重庆.jpg"
+     },
+                      {
+    "plan":"         张飞牛肉",
+    "imgurl":"重庆.jpg"
+                      },
+    {
+    "plan":"         陈麻花我的最爱",
+    "imgurl":"重庆.jpg"
+                      }
+    
+                      ],
+     "Posts_travel_notes_city":"重庆",
+     "Posts_travel_notes_image":"重庆.jpg"
+     },
+     {
+     "Posts_id": 2,
+     "Posts_type": 1,
+     "User_id": 10,
+     "User_nickname":"丕龙大将军",
+     "User_headphoto": "123.jpg",
+     "Posts_title":"相约磁器口",
+    "Posts_content":"重返千年古镇，回味风土人情",
+     "Posts_contentinfo":[{
+                      "plan1":"磁器口吃伤心凉面",
+                      "imgurl":"http://file21.mafengwo.net/M00/D2/07/wKgB3FFlQz6AZL8UAAaAfbKGKHA32.jpeg"
+                      },
+                      {
+                      "plan":"张飞牛肉",
+                      "imgurl":"http://roadqu.com/data/attachment/201201/31/504f2e6545c577c652457197c9f25036-175-175.jpg"
+                      },
+                      {
+                      "plan":"陈麻花我的最爱",
+                      "imgurl":"http://www.my0734.com.cn/YouJiPhoto/20071023/32/1201/3568888E03.jpg"
+                      }
+                      
+                      ],
+     "Posts_travel_notes_city":"重庆",
+     "Posts_travel_notes_image":"重庆.jpg"
+     }
+     ]
+}

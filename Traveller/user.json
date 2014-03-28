@@ -1,0 +1,149 @@
+{"errorNum":10000,"errorMsg":"success","data":
+    [{
+     "User_id": 1,
+     "User_nickname": "骑着骆驼看蜗牛",
+     "User_headphoto": "123.jpg",
+     "latitude":20,
+     "longitude":20,
+     "User_activity_list":
+     [{"Posts_id":1,
+      "Posts_type":0,
+      "Posts_title":"相约磁器口",
+      "Posts_content":"我们一起来看国鸡章",
+      "Posts_location":"重庆"},
+      {"Posts_id":2,
+      "Posts_type":0,
+      "Posts_title":"大学城自行车一日游",
+      "Posts_content":"游遍大学城不是梦",
+      "Posts_location":"重庆"}]
+     },
+     
+     {
+     "User_id": 2,
+     "User_nickname": "我是巫皮龙",
+     "User_headphoto": "123.jpg",
+     "latitude":20,
+     "longitude":20,
+     "User_activity_list":
+     [{"Posts_id":2,
+      "Posts_type":0,
+      "Posts_title":"大学城自行车一日游",
+      "Posts_content":"游遍大学城不是梦",
+      "Posts_location":"重庆"}]
+     },
+     {
+     "User_id": 3,
+     "User_nickname": "菊花开在黎明深处",
+     "User_headphoto": "123.jpg",
+     "latitude":20,
+     "longitude":20,
+     "User_activity_list":
+     [{"Posts_id":2,
+      "Posts_type":0,
+      "Posts_title":"大学城自行车一日游",
+      "Posts_content":"游遍大学城不是梦",
+      "Posts_location":"重庆"}]
+     },
+     {
+     "User_id": 4,
+     "User_nickname": "丕龙大将军",
+     "User_headphoto": "123.jpg",
+     "latitude":20,
+     "longitude":20,
+     "User_activity_list":
+     [{"Posts_id":2,
+      "Posts_type":0,
+      "Posts_title":"大学城自行车一日游",
+      "Posts_content":"游遍大学城不是梦",
+      "Posts_location":"重庆"}]
+     },
+     {
+     "User_id": 5,
+     "User_nickname": "走",
+     "User_headphoto": "123.jpg",
+     "latitude":20,
+     "longitude":20,
+     "User_activity_list":
+     [{"Posts_id":2,
+      "Posts_type":0,
+      "Posts_title":"大学城自行车一日游",
+      "Posts_content":"游遍大学城不是梦",
+      "Posts_location":"重庆"}]
+     },
+     {
+     "User_id": 6,
+     "User_nickname": "草泥马",
+     "User_headphoto": "123.jpg",
+     "latitude":20,
+     "longitude":20,
+     "User_activity_list":
+     [{"Posts_id":2,
+      "Posts_type":0,
+      "Posts_title":"大学城自行车一日游",
+      "Posts_content":"游遍大学城不是梦",
+      "Posts_location":"重庆"}]
+     },
+     {
+     "User_id": 7,
+     "User_nickname": "陈浮生",
+     "User_headphoto": "123.jpg",
+     "latitude":20,
+     "longitude":20,
+     "User_activity_list":
+     [{"Posts_id":2,
+      "Posts_type":0,
+      "Posts_title":"大学城自行车一日游",
+      "Posts_content":"游遍大学城不是梦",
+      "Posts_location":"重庆"}]
+     },
+     {
+     "User_id": 8,
+     "User_nickname": "谢文东",
+     "User_headphoto": "123.jpg",
+     "latitude":20,
+     "longitude":20,
+     "User_activity_list":
+     [{"Posts_id":2,
+      "Posts_type":0,
+      "Posts_title":"大学城自行车一日游",
+      "Posts_content":"游遍大学城不是梦",
+      "Posts_location":"重庆"}]
+     },
+     {
+     "User_id": 9,
+     "User_nickname": "图样图森破",
+     "User_headphoto": "123.jpg",
+     "latitude":20,
+     "longitude":20,
+     "User_activity_list":
+     [{"Posts_id":2,
+      "Posts_type":0,
+      "Posts_title":"大学城自行车一日游",
+      "Posts_content":"游遍大学城不是梦",
+      "Posts_location":"重庆"}]
+     },
+     
+     {
+     "User_id": 10,
+     "User_nickname": "神来之笔",
+     "User_headphoto": "user_10.jpeg",
+     "latitude":20,
+     "longitude":20,
+     "Posts_id":1009,
+     "Posts_type":0,
+     "Posts_title":"大世界",
+     "Posts_content":"是观音桥,大世纪",
+     "Posts_location":"观音桥",
+     "User_activity_list":
+     [
+      {
+      "Posts_id":1009,
+      "Posts_type":0,
+      "Posts_title":"大世界",
+      "Posts_content":"是观音桥,大世纪",
+      "Posts_location":"观音桥"
+      }
+      ]}
+     ]}
+
+
